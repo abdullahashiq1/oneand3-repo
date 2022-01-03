@@ -1,0 +1,1 @@
+It is a sample html and css style project .initialized learning work day by day
